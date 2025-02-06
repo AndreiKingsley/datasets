@@ -1,7 +1,7 @@
 # datasets
 Datasets for usage in DataFrame / Kandy.
 
-* *germany_provinces* — Shapefile with German provinces bounds.
+* *germany_states* — Shapefile with Germany states bounds.
   * Provided by [Natural Earth](https://www.naturalearthdata.com/) (modified).
 * *ne_10m_populated_places_simple* — Shapefile with worldwide populated places.
    * Provided by [Natural Earth](https://www.naturalearthdata.com/).

@@ -1,8 +1,8 @@
 # datasets
 Datasets for usage in DataFrame / Kandy.
 
-* *germany_states* — Shapefile with Germany states bounds.
-  * Provided by [Natural Earth](https://www.naturalearthdata.com/) (modified).
+* *ne_10m_admin_1_states_provinces* — Shapefile with worldwide states and provinces bounds.
+  * Provided by [Natural Earth](https://www.naturalearthdata.com/).
 * *ne_10m_populated_places_simple* — Shapefile with worldwide populated places.
    * Provided by [Natural Earth](https://www.naturalearthdata.com/).
 * *USA.json* — GeoJSON with USA states bounds.
